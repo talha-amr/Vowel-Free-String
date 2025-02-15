@@ -18,8 +18,12 @@ Open the terminal and compile:
 g++ vowels_free_string.cpp -o vowels_free_string
 Run the program:
 ./vowels_free_string
+
 Example:
+
 Input:
+
 hello how are you?
 Output:
+
 hll hw r y?
